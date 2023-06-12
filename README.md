@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogajana
+- 👋 Hi, I’m @Janardhanan
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning ..devops.
 - 💞️ I’m looking to collaborate on aws and devops...
